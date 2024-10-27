@@ -6,6 +6,7 @@
 
 main:
   - title: "CV"
+    #url: /cv/
     url: /files/HannahJoseph_resume.pdf
 
   - title: "Portfolio"
