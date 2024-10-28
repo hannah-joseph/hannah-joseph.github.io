@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I recently graduated from Temple University with a degree in Biology. My research interests are in Data Science, specifically in Natural Language Processing and Machine Learning. 
+Welcome! I recently graduated from Temple University with a Bachelor of Science degree in Biology. My research interests are in Data Science, specifically in Natural Language Processing and Machine Learning. 
 
 Work Experience
 ======
