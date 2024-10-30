@@ -10,16 +10,13 @@ main:
     url: /files/HannahJoseph_resume.pdf
 
   - title: "Certifications"
-    url: /certifications/
+    url: /_certifications/
 
   - title: "Portfolio"
     url: /portfolio/
 
   # - title: "Publications"
-  #   url: /publications/
-
-  - title: "Presentations"
-    url: /presentations/    
+  #   url: /publications/   
 
   #- title: "Teaching"
    # url: /teaching/    
