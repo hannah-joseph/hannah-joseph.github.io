@@ -10,7 +10,7 @@ main:
     url: /files/HannahJoseph_resume.pdf
 
   - title: "Certifications"
-    url: /_certifications/
+    url: /certification/
 
   - title: "Portfolio"
     url: /portfolio/
