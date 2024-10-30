@@ -1,6 +1,6 @@
 ---
-title: "Certificate 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/gdapc.png'>"
+title: "GDPAC"
+excerpt: "Google Data Analytics Professional Certificate<br/><img src='/images/gdapc.png'>"
 collection: certifications
 ---
 
