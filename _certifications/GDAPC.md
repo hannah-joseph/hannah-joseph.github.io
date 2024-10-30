@@ -1,6 +1,7 @@
 ---
 title: "GDPAC"
 excerpt: "Google Data Analytics Professional Certificate<br/><img src='/images/gdapc.png'>"
+permalink: /certifications/GDAPC.md
 collection: certifications
 ---
 
